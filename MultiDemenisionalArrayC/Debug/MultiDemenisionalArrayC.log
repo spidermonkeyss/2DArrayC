@@ -1,10 +1,3 @@
-﻿  MultiDeminsionalArray.c
-c:\users\andre\documents\visual studio 2017\projects\multidemenisionalarrayc\multideminsionalarray.c(7): warning C4013: 'malloc' undefined; assuming extern returning int
-c:\users\andre\documents\visual studio 2017\projects\multidemenisionalarrayc\multideminsionalarray.c(11): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
-c:\users\andre\documents\visual studio 2017\projects\multidemenisionalarrayc\multideminsionalarray.c(7): warning C4047: 'initializing': 'M_Array *' differs in levels of indirection from 'int'
-c:\users\andre\documents\visual studio 2017\projects\multidemenisionalarrayc\multideminsionalarray.c(26): warning C4013: 'free' undefined; assuming extern returning int
-c:\users\andre\documents\visual studio 2017\projects\multidemenisionalarrayc\multideminsionalarray.c(53): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
-c:\users\andre\documents\visual studio 2017\projects\multidemenisionalarrayc\multideminsionalarray.c(64): warning C4013: 'realloc' undefined; assuming extern returning int
-c:\users\andre\documents\visual studio 2017\projects\multidemenisionalarrayc\multideminsionalarray.c(64): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
-c:\users\andre\documents\visual studio 2017\projects\multidemenisionalarrayc\multideminsionalarray.c(49): warning C4047: 'initializing': 'M_Array *' differs in levels of indirection from 'int'
+﻿  Main.c
+c:\users\andre\documents\visual studio 2017\projects\multidemenisionalarrayc\main.c(18): warning C4013: 'printf' undefined; assuming extern returning int
   MultiDemenisionalArrayC.vcxproj -> C:\Users\andre\Documents\Visual Studio 2017\Projects\MultiDemenisionalArrayC\Debug\MultiDemenisionalArrayC.exe
